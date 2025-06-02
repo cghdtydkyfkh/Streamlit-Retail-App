@@ -83,7 +83,7 @@ To run this application on your local machine, follow these steps:
 
 Experience the Retail Stock & Expiry Analyzer live on Streamlit Community Cloud:
 
-[Live Demo Link (Will be available after deployment)](https://app-retail-app-lnwyvyjrjxzkkogkryfht8.streamlit.app) 
+[Live Demo Link ()](https://app-retail-app-lnwyvyjrjxzkkogkryfht8.streamlit.app) 
 
 ## 🚀 Future Enhancements
 
