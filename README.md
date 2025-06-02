@@ -51,7 +51,7 @@ To run this application on your local machine, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/cghdtydkyfkh/Streamlit-Retail-App.git](https://app-retail-app-lnwyvyjrjxzkkogkryfht8.streamlit.app)]
+    git clone [https://github.com/cghdtydkyfkh/Streamlit-Retail-App.git]()]
     cd Streamlit-Retail-App
     ```
 
@@ -83,7 +83,7 @@ To run this application on your local machine, follow these steps:
 
 Experience the Retail Stock & Expiry Analyzer live on Streamlit Community Cloud:
 
-[Live Demo Link (Will be available after deployment)](app-retail-app-lnwyvyjrjxzkkogkryfht8) 
+[Live Demo Link (Will be available after deployment)](https://app-retail-app-lnwyvyjrjxzkkogkryfht8.streamlit.app) 
 
 ## 🚀 Future Enhancements
 
