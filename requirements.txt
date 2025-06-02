@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl # Include this even if you haven't implemented Excel yet, as it's a common dependency for Excel files.

@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,StockQuantity,ExpiryDate,UnitPrice,Supplier
+101,Apple Juice,Beverages,50,2025-07-15,2.50,SupplierA
+102,Milk (Full Cream),Dairy,20,2025-06-01,3.00,SupplierB
+103,Bread (Whole Wheat),Bakery,15,2025-05-30,2.20,SupplierA
+104,Yogurt (Strawberry),Dairy,30,2025-06-20,1.80,SupplierC
+105,Eggs (Large),Dairy,10,2025-06-05,4.50,SupplierB
+106,Orange Juice,Beverages,40,2025-07-25,2.80,SupplierA
+107,Chocolate Bar,Confectionery,100,2026-01-01,1.00,SupplierD
+108,Cheese Slices,Dairy,25,2025-06-10,3.50,SupplierC
+109,Butter,Dairy,8,2025-06-03,5.00,SupplierB
+110,Canned Soup,Canned Goods,75,2027-03-15,1.50,SupplierD
+111,Fresh Berries,Produce,,2025-06-02,3.20,SupplierA
+112,Chicken Breast,Meat,5,InvalidDate,6.00,SupplierE
