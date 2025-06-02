@@ -51,7 +51,7 @@ To run this application on your local machine, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/cghdtydkyfkh/Streamlit-Retail-App.git](https://github.com/cghdtydkyfkh/Streamlit-Retail-App.git)
+    git clone [https://github.com/cghdtydkyfkh/Streamlit-Retail-App.git](https://app-retail-app-lnwyvyjrjxzkkogkryfht8.streamlit.app)]
     cd Streamlit-Retail-App
     ```
 
